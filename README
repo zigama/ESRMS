@@ -1,0 +1,16 @@
+ESRMS allows to collect and keeping student data in a database, on computers. This reduces the costs of handling paperwork associated with record keeping, as it was done with paper-based system. The system allows for timely retrieval of needed information, whenever is requested, and easily without burdensome trial and error searching.
+While the student information is shared, analyzed, and reported; the system maintains the data within the same quality. Thus it provides the school, parents and students with a real-time access to student data.
+The system tries to get the school as close as it can to parents or guardians. The aim is to keep them up to date of the student competence. For this purpose, the school sends them notifications for important events, mainly concerning the student discipline, via SMS. 
+The system also provides the users with friendly-user interfaces, even sharable, for completing any task or through which to easily interact with the system.
+
+
+
+NB: 1.	JDK (ESRMS tested and run well with java version "1.6.0_24")
+	WEB SERVER: Apache Tomcat
+	DB SERVER: Mysql Server 
+	
+
+    2.	To explore all of the features of ESRMS, you will be required also to install ozeki NG SMS Gateway,
+	ESRMS has been tested with OzekiNG-SMS-Gateway_3.15.3, and was perfect.
+	For more info, please refer to http://www.ozekisms.com/index.php?owpn=112
+
